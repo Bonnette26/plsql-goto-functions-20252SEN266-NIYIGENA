@@ -166,3 +166,5 @@ These challenges were solved by testing the code step by step and checking the r
 ## Academic Integrity
 
 This is an individual assignment. I used notes ,AI assistant for guidance, explanations, debugging, and understanding some PL/SQL concepts. I reviewed and tested the code in my own Oracle database and remain responsible for understanding and explaining the submitted work.
+
+The project was developed and tested using the KigaliCare Hospital Management System scenario.
