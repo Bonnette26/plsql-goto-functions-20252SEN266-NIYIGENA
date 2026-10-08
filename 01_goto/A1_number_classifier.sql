@@ -1,3 +1,5 @@
+
+-- A1: Classify an employee's salary using GOTO statements.
 SET SERVEROUTPUT ON;
 
 DECLARE
