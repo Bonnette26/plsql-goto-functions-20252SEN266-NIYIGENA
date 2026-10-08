@@ -1,3 +1,5 @@
+
+-- B3: Calculate tax based on employee salary.
 CREATE OR REPLACE FUNCTION fn_calculate_tax (
     p_salary NUMBER
 )

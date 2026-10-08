@@ -1,3 +1,4 @@
+-- B4: Return department name using department ID.
 CREATE OR REPLACE FUNCTION fn_dept_name (
     p_dept_id NUMBER
 )

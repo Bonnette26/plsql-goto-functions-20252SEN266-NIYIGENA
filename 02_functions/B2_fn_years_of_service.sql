@@ -1,3 +1,4 @@
+-- B2: Calculate years of service from hire date.
 CREATE OR REPLACE FUNCTION fn_years_of_service (
     p_hire_date DATE
 )
