@@ -1,3 +1,4 @@
+-- C1: Validate employee payroll information.
 CREATE OR REPLACE FUNCTION fn_validate_payroll (
     p_emp_id NUMBER
 )

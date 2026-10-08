@@ -1,3 +1,4 @@
+-- Test functions inside a SQL SELECT statement.
 SELECT
     e.emp_id,
     e.emp_name,
